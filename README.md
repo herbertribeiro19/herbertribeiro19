@@ -1,13 +1,13 @@
 ### Olá, eu sou Herbert Ribeiro 👋
 
-- 🧑🏾‍🎓 Estudante de Front-End e Designer UX/UI
+- 🧑🏾‍🎓 Front-End developer e Designer UI/UX
 - 🧑🏾‍💻 Contato: hebert11223@gmail.com
-- 🖥️ Portifólio: https://herbertribeiro19.github.io/Portifolio/
+- 🖥️ Meu Portifólio: https://herbertribeiro19.github.io/Portifolio/
 
 <div align="left">
   <a href="https://github.com/herbertribeiro19">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertribeiro19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs=7&theme=white"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs=7&theme=dark"/>
 </div>
 
 ##
