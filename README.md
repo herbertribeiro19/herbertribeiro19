@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/herbertribeiro19">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertribeiro19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs=7&theme=dark"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs=7&theme=white"/>
 </div>
 
 ##
