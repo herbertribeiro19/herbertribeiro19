@@ -1,4 +1,3 @@
-###
 <h3 align="center">Olá, eu sou Herbert Ribeiro!👋</h3>
 <div align="center">
 🧑🏾‍🎓 Front-End developer e Designer UI/UX
@@ -19,7 +18,7 @@
 <div align="center">
 <h3 align="center">🏆 Streaks</h3>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple">
-<p><img width="48%" height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple" alt="herbertribeiro19" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple" alt="herbertribeiro19" /></p>
 </div>
   
 ##
