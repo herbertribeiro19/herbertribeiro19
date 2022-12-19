@@ -1,9 +1,9 @@
 <h3 align="center">Olá, eu sou Herbert Ribeiro!👋</h3>
 <div align="center">
-🧑🏾‍🎓 Front-End developer e Designer UI/UX
+🧑🏾‍🎓 Front-End developer & Designer UI/UX
 </div>
 <div align="center">
-🖥️ Meu Portifólio: https://herbertribeiro19.github.io/Portifolio
+🖥️ Meu Portifólio Online: https://herbertribeiro19.github.io/Portifolio
 </div>
 
 ##
