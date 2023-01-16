@@ -3,7 +3,7 @@
 🧑🏾‍🎓 Front-End developer & Designer UI/UX
 </div>
 <div align="center">
-🖥️ Meu Portfólio: https://herbertribeiro19.github.io/Portifolio
+🖥️ Meu Portfólio Profissional: https://herbertribeiro19.github.io/Portifolio
 </div>
 
 ##
