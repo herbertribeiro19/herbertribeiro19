@@ -10,9 +10,10 @@
 <div align="center">
   <h3 align="center">📈 My Stats</h3>
   <a href="https://github.com/herbertribeiro19">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertribeiro19&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img width="48%" height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertribeiro19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
   
 ##
 <h3 align="center">🥇 Languages and Tools</h3>
