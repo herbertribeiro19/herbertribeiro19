@@ -1,6 +1,6 @@
 <h3 align="center">Olá, eu sou Herbert Ribeiro!👋</h3>
 <div align="center">
-🧑🏾‍🎓 Front-End developer & Designer UI/UX
+🧑🏾‍🎓 Mobile & Front-End developer
 </div>
 <div align="center">
 🖥️ Meu Portfólio Profissional: https://herbertribeiro19.github.io/Portifolio
@@ -10,9 +10,9 @@
 <div align="center">
   <h3 align="center">📈 My Stats</h3>
   <a href="https://github.com/herbertribeiro19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertribeiro19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+
+  ![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+  ![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&langs_count=10&hide_border=true&layout=compact)
   
   
 ##
