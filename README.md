@@ -35,7 +35,7 @@
   <h3 align="center">📈 My Stats</h3>
   <a href="https://github.com/herbertribeiro19">
 
-  ![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&&include_all_commits=true&theme=midnight-purplek&show_icons=true&hide_border=true&count_private=true)
+  ![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&&include_all_commits=true&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
    ![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
   ![herbertribeiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple&hide_border=true)
 
