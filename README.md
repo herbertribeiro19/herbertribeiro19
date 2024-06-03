@@ -26,8 +26,8 @@
 
 ### 📧 Contact me 
 
-<a href='https://www.linkedin.com/in/herbert-ribeiro-109228202/'><code><img height="32" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code><a>
-<a href='mailto:hebert11223@gmail.com'><code><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code><a>
+<a target="_blank" href='https://www.linkedin.com/in/herbert-ribeiro-109228202/'><code><img height="32" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code><a>
+<a target="_blank" href='mailto:hebert11223@gmail.com'><code><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code><a>
 </div> 
 
 ###
