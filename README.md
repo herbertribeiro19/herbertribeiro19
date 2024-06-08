@@ -6,7 +6,7 @@
 <div align="center">
 🖥️ My professional portfolio: https://herbertribeiro19.github.io/portfolio-new/
 
-###### 📱 Developing Mobile Applications specifically for IOS platforms
+###### 📱 Developing Mobile Applications specifically for IOS devices
 
   
 ### 🥇 Skills
