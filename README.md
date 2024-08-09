@@ -28,16 +28,16 @@
 
 <a target="_blank" href='https://www.linkedin.com/in/herbert-ribeiro-109228202/'><code><img height="32" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code><a>
 <a target="_blank" href='mailto:hebert11223@gmail.com'><code><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code><a>
-</div> 
+</div>
 
 ###
 <div align="center">
   <h3 align="center">📈 My Stats</h3>
   <a href="https://github.com/herbertribeiro19">
 
- ![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=12)
-  ![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&&include_all_commits=true&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-  ![herbertribeiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple&hide_border=true)
+![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=12)
+![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&&include_all_commits=true&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![herbertribeiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple&hide_border=true)
 
  
 
