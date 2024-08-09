@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Herbert Ribeiro!👋</h3>
+<h2 align="center">Hi, I'm Herbert Ribeiro!👋</h2>
 <div align="center">
 👨‍💻 Mobile Developer, FrontEnd Developer and UI/UX Designer.
 </div>
@@ -35,8 +35,8 @@
   <h3 align="center">📈 My Stats</h3>
   <a href="https://github.com/herbertribeiro19">
 
-![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=12)
-![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&&include_all_commits=true&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&hide=stars&include_all_commits=true&&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br>
+![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=12)<br>
 ![herbertribeiro19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=herbertribeiro19&theme=midnight-purple&hide_border=true)
 
  
