@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Herbert Ribeiro!👋</h2>
 <div align="center">
-👨‍💻 Mobile Developer, FrontEnd Developer and UI/UX Designer.
+👨‍💻 FrontEnd Web and Mobile Developer | IOS/Android.
 </div>
 
 <div align="center">
