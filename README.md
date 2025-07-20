@@ -26,10 +26,6 @@
   </tr>
 </table>
 
-
-
-        
-
 ### 📧 Contact me 
 
 <a target="_blank" href='https://www.linkedin.com/in/herbert-ribeiro-109228202/'><code><img height="32" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code><a>
@@ -42,6 +38,7 @@
   <a href="https://github.com/herbertribeiro19">
 
 ![herbertribeiro19's Stats](https://github-readme-stats.vercel.app/api?username=herbertribeiro19&hide=stars&include_all_commits=true&&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)<br>
+<img src="https://streak-stats.demolab.com?user=herbertribeiro19&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /><br>
 ![herbertribeiro19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertribeiro19&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=12)<br>
 
  
